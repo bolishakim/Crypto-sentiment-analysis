@@ -30,8 +30,3 @@ There is a positive relationship between Reddit sentiment and Bitcoin market tre
 - `Reddit_data_Fun.py`: Script for retrieving Reddit data.
 - `VADER_Sentiment.py`: Script for performing sentiment analysis using VADER.
 - `VADER_daily_analysis.py`: Script for daily analysis of VADER sentiment data.
-
-## Installation
-To install the required packages, run:
-```sh
-pip install -r requirements.txt
