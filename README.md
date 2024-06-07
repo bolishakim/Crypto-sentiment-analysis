@@ -21,11 +21,15 @@ Sentiment analysis was performed using `VADER` and `BERT`. The relationship betw
 There is a positive relationship between Reddit sentiment and Bitcoin market trends. BERT showed a higher correlation compared to VADER.
 
 ## Repository Structure
-- `data/`: Contains raw and processed data files.
-- `src/`: Python scripts for data retrieval, processing, and analysis.
-- `figures/`: Generated figures and plots.
+- `Accuracy/`: Contains accuracy evaluation files for sentiment analysis.
+- `Data/`: Contains data files used in the project.
+- `BERT_Sentiment.py`: Script for performing sentiment analysis using BERT.
+- `BERT_daily_analysis.py`: Script for daily analysis of BERT sentiment data.
+- `Cryptocurrency_Fun.py`: Script for retrieving cryptocurrency market data.
 - `README.md`: Project documentation.
-- `requirements.txt`: Python dependencies.
+- `Reddit_data_Fun.py`: Script for retrieving Reddit data.
+- `VADER_Sentiment.py`: Script for performing sentiment analysis using VADER.
+- `VADER_daily_analysis.py`: Script for daily analysis of VADER sentiment data.
 
 ## Installation
 To install the required packages, run:
