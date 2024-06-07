@@ -22,6 +22,7 @@ There is a positive relationship between Reddit sentiment and Bitcoin market tre
 
 ## Repository Structure
 - `README.md`: Project documentation.
+- `Visualisation/`: Contains the analysis plots and Visualisation.
 - `Accuracy/`: Contains accuracy evaluation files for sentiment analysis.
 - `Data/`: Contains data files used in the project.
 - `BERT_Sentiment.py`: Script for performing sentiment analysis using BERT.
